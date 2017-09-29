@@ -27,6 +27,5 @@
 Date date = new Date();%>
 <%=date%></p>
     </body>
-    
-    JAMESJAMESJAMESJAMESJAMES
+
 </html>
